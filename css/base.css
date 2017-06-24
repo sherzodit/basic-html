@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    background: #F9FBFB;
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    color: #1b1b1b;
+}
+a {
+    color: #0084B4;
+    text-decoration: none;
+}
+a:hover {
+    color: #1DA1F2;
+    text-decoration: none;
+}
+a:active {
+    color: #1DA1F2;
+}
+a:visited{
+    color: #440088;
+}
+h1 {
+    font-size: 20px;
+    line-height: 22px;
+}
+h2 {
+    font-size: 18px;
+    line-height: 22px;
+}
+h3 {
+    font-size: 16px;
+    line-height: 22px;
+}
